@@ -9,5 +9,5 @@ Two source files are available in this project:
 'webster.py' is used to read only the words from Webster's Dictionary and
 write them to 'words_webster.txt'
 
-'isograms.py' is used to write isograms from the source file to appropiately
+'isograms.py' is used to write isograms from the source file to appropriately
 named files.
