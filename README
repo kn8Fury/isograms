@@ -1,0 +1,13 @@
+This purpose of this project is to read words from a source file,
+find isograms, and store them in appropiately named files.
+
+Two source files are available in this project:
+	1. The Project Gutenberg EBook of Webster's Unabridged Dictionary
+	2. 'words.txt' available at https://github.com/dwyl/english-words (renamed to
+	'words_git.txt'
+
+'webster.py' is used to read only the words from Webster's Dictionary and
+write them to 'words_webster.txt'
+
+'isograms.py' is used to write isograms from the source file to appropiately
+named files.
