@@ -1,6 +1,7 @@
 #! /usr/bin/python3
-''' Extracts definition words from 'webster.txt'. Only non-repeating words
-with all alphabets are considered, i.e., no word endings or beginnings.
+''' Extracts definition words from 'webster.txt' and puts them in
+'words_webster.txt'. Only non-repeating words with all alphabets are
+considered, i.e., no word endings or beginnings.
 '''
 
 def main():
